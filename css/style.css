@@ -1,0 +1,69 @@
+form
+{
+    margin-bottom: 0;
+}
+.bootstrap-table .fixed-table-toolbar .bs-bars, .bootstrap-table .fixed-table-toolbar .columns, .bootstrap-table .fixed-table-toolbar .search {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+body
+{
+	line-height: 1;
+	margin: 5px 5px 5px;
+}
+a {
+	color: #000099;
+}
+hr
+{
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+  color: #f2f2f2;
+}
+a .table-dark
+{
+	color:#fff;
+}
+.form-control{
+	line-height: 1;
+}
+.btn.btn-primary{
+	background-color: #53c68c;
+	color:#000000;
+}
+.custom-combobox {
+position: relative;
+display: inline-block;
+}
+.custom-combobox-toggle {
+position: absolute;
+top: 0;
+bottom: 0;
+margin-left: -1px;
+padding: 0;
+}
+.custom-combobox-input {
+margin: 0;
+padding: 5px 10px;
+}
+.link-black{
+	color:black;
+	font-size:10px;
+}
+
+.lbl{
+	color:black;
+}
+
+a:hover
+{
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
+}
+
+.l a,
+.l a:hover,
+.l a:focus {
+    color: #404040; // white
+}

@@ -2403,7 +2403,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   align-items: flex-start;
   justify-content: center; }
-
+  
   .btn-group-vertical > .btn,
   .btn-group-vertical > .custom-file-control::before,
   .btn-group-vertical > .btn-group {
